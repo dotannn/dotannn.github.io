@@ -9,3 +9,5 @@ Subjects for blog:
 7. deformable convolutional networks
 8. focal loss
 9. cnn visualization technics
+10. tutorial - easily train faster rcnn pytorch implementation on custom dataset
+11. connecting pytorch to Tensorboard
